@@ -50,6 +50,867 @@
     ]
   },
   {
+    "name": "Tachiyomi: Bato.to",
+    "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
+    "apk": "tachiyomi-all.batoto-v1.4.33.apk",
+    "lang": "all",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 1,
+    "sources": [
+      {
+        "name": "Bato.to",
+        "lang": "all",
+        "id": "4531444389842992129",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "en",
+        "id": "7890050626002177109",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ar",
+        "id": "5096384382752696500",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "bg",
+        "id": "6495955027968241042",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "zh",
+        "id": "3158884414181268012",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "cs",
+        "id": "7576440018916883094",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "da",
+        "id": "5316229865560945519",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "nl",
+        "id": "2451829407813501910",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "fil",
+        "id": "313424729392609270",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "fi",
+        "id": "1251974539278082369",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "fr",
+        "id": "5836611700806032846",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "de",
+        "id": "139923318887989403",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "el",
+        "id": "8473797648002215114",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "he",
+        "id": "2408078218204857839",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "hi",
+        "id": "7084618587403216116",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "hu",
+        "id": "4530528320166985351",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "id",
+        "id": "1720762928205210073",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "it",
+        "id": "2160637426591463299",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ja",
+        "id": "5203173367987472935",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ko",
+        "id": "8427126052180576160",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ms",
+        "id": "5990851390838920547",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "pl",
+        "id": "3394902802486008664",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "pt",
+        "id": "6179954312892676695",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "pt-BR",
+        "id": "3484603489360202582",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ro",
+        "id": "5145326243818977877",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ru",
+        "id": "5188408707919914484",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "es",
+        "id": "6204540321264480489",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "es-419",
+        "id": "7185350469868201379",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "sv",
+        "id": "8913559243351013088",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "th",
+        "id": "2706040171335467974",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "tr",
+        "id": "6468780937168595917",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "uk",
+        "id": "1782621454240367603",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "vi",
+        "id": "3164440079022386695",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "af",
+        "id": "9193031427501250739",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "sq",
+        "id": "6847493053848422645",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "am",
+        "id": "2526577153570564673",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "hy",
+        "id": "1586739058301487676",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "az",
+        "id": "713056016405537102",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "be",
+        "id": "7232505995053152192",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "bn",
+        "id": "3402500071662542228",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "bs",
+        "id": "6908072148468152785",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "my",
+        "id": "5762198617335159887",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "km",
+        "id": "6796421298740947063",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ca",
+        "id": "1392737883785118332",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ceb",
+        "id": "5837595011776494775",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "zh-Hans",
+        "id": "2818874445640189582",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "zh-Hant",
+        "id": "38886079663327225",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "hr",
+        "id": "7668596971407381245",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "en-US",
+        "id": "8062169055021595945",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "eo",
+        "id": "3509865042379188717",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "et",
+        "id": "3006949234613526276",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "fo",
+        "id": "7703342981951715697",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ka",
+        "id": "5905178459829728484",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "gn",
+        "id": "4894494172631551657",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "gu",
+        "id": "4891408516910497422",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ht",
+        "id": "8773112916243804182",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ha",
+        "id": "8106799273220933842",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "is",
+        "id": "2566480683201153375",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ig",
+        "id": "3424308522705464084",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ga",
+        "id": "3707936942181329862",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "jv",
+        "id": "6913455010116693655",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "kn",
+        "id": "1088655658033412867",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "kk",
+        "id": "4920750007190577961",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ku",
+        "id": "5924797894030210791",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ky",
+        "id": "191250206471387059",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "lo",
+        "id": "374730826849442838",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "lv",
+        "id": "7483906778681041617",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "lt",
+        "id": "2909322037877472903",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "lb",
+        "id": "7998953198185983599",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "mk",
+        "id": "4493782214399724320",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "mg",
+        "id": "7844022624810291146",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ml",
+        "id": "3443092856670936701",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "mt",
+        "id": "7404477799743142598",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "mi",
+        "id": "8225972509362693639",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "mr",
+        "id": "6030352007472109485",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "mo",
+        "id": "8871355786189601023",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "mn",
+        "id": "1683078263344915307",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ne",
+        "id": "128549604427027000",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "no",
+        "id": "3907280050995528877",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ny",
+        "id": "5715855562377571991",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ps",
+        "id": "6105060607877949219",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "fa",
+        "id": "1302226087224798096",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "rm",
+        "id": "8327243820444225063",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "sm",
+        "id": "2859258045373504715",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "sr",
+        "id": "6589258274800936036",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "sh",
+        "id": "2675056792049767704",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "st",
+        "id": "7963579117812866356",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "sn",
+        "id": "2403628417982139515",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "sd",
+        "id": "7126242426383705161",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "si",
+        "id": "2913942844788726362",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "sk",
+        "id": "7182321933689697136",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "sl",
+        "id": "8410771330361157651",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "so",
+        "id": "2909968758031724143",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "sw",
+        "id": "1981693893234457639",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "tg",
+        "id": "8403246223033985015",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ta",
+        "id": "8440188015298648289",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ti",
+        "id": "5554111601105349413",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "to",
+        "id": "2410241309695200602",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "tk",
+        "id": "3635004776434724843",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "ur",
+        "id": "7602124517732860619",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "uz",
+        "id": "4555523281386098571",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "yo",
+        "id": "727983903143794104",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "zu",
+        "id": "3786926370127246407",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "other",
+        "id": "1897863245819012494",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "eu",
+        "id": "3468748569008741067",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "pt-PT",
+        "id": "2823929639670313992",
+        "baseUrl": "https://bato.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BILIBILI COMICS",
     "pkg": "eu.kanade.tachiyomi.extension.all.bilibilicomics",
     "apk": "tachiyomi-all.bilibilicomics-v1.4.12.apk",
@@ -708,10 +1569,10 @@
   {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
-    "apk": "tachiyomi-all.cubari-v1.4.23.apk",
+    "apk": "tachiyomi-all.cubari-v1.4.24.apk",
     "lang": "all",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -1826,43 +2687,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Kavita",
-    "pkg": "eu.kanade.tachiyomi.extension.all.kavita",
-    "apk": "tachiyomi-all.kavita-v1.4.13.apk",
-    "lang": "all",
-    "code": 13,
-    "version": "1.4.13",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 1,
-    "sources": [
-      {
-        "name": "Kavita (1)",
-        "lang": "all",
-        "id": "7266875667263635239",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Kavita (2)",
-        "lang": "all",
-        "id": "3764816291200082561",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Kavita (3)",
-        "lang": "all",
-        "id": "778637366235559582",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Kemono",
     "pkg": "eu.kanade.tachiyomi.extension.all.kemono",
     "apk": "tachiyomi-all.kemono-v1.4.8.apk",
@@ -1880,80 +2704,6 @@
         "baseUrl": "https://kemono.party",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Komga",
-    "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.4.50.apk",
-    "lang": "all",
-    "code": 50,
-    "version": "1.4.50",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 1,
-    "sources": [
-      {
-        "name": "Komga",
-        "lang": "all",
-        "id": "4508733312114627536",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Komga (2)",
-        "lang": "all",
-        "id": "8074481155021144106",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Komga (3)",
-        "lang": "all",
-        "id": "5132811728275817394",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: LANraragi",
-    "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
-    "apk": "tachiyomi-all.lanraragi-v1.4.15.apk",
-    "lang": "all",
-    "code": 15,
-    "version": "1.4.15",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 1,
-    "sources": [
-      {
-        "name": "LANraragi (1)",
-        "lang": "all",
-        "id": "4482480338677079857",
-        "baseUrl": "http://127.0.0.1:3000",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "LANraragi (2)",
-        "lang": "all",
-        "id": "6188058704030343819",
-        "baseUrl": "http://127.0.0.1:3000",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "LANraragi (3)",
-        "lang": "all",
-        "id": "1900742277877037366",
-        "baseUrl": "http://127.0.0.1:3000",
-        "versionId": 1,
-        "hasCloudflare": 1
       }
     ]
   },
@@ -2283,6 +3033,443 @@
         "baseUrl": "https://mangacrazy.net",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaDex",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
+    "apk": "tachiyomi-all.mangadex-v1.4.192.apk",
+    "lang": "all",
+    "code": 192,
+    "version": "1.4.192",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaDex",
+        "lang": "en",
+        "id": "2499283573021220255",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "sq",
+        "id": "987803387023224960",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ar",
+        "id": "3339599426223341161",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "az",
+        "id": "9127464796236242233",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "bn",
+        "id": "4150470519566206911",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "bg",
+        "id": "5463447640980279236",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "my",
+        "id": "1347402746269051958",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ca",
+        "id": "5860541308324630662",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "zh-Hans",
+        "id": "5148895169070562838",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "zh-Hant",
+        "id": "1493666528525752601",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "hr",
+        "id": "8548374501079910130",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "cs",
+        "id": "3578612018159256808",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "da",
+        "id": "425785191804166217",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "nl",
+        "id": "6750440049024086587",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "eo",
+        "id": "2819252027406613931",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "et",
+        "id": "8773024089257004344",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "fil",
+        "id": "8578871918181236609",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "fi",
+        "id": "8254121249433835847",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "fr",
+        "id": "4505830566611664829",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ka",
+        "id": "8952567078513962586",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "de",
+        "id": "5098537545549490547",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "el",
+        "id": "3260701926561129943",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "he",
+        "id": "1424273154577029558",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "hi",
+        "id": "6840513937945146538",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "hu",
+        "id": "4284949320785450865",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "id",
+        "id": "3807502156582598786",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "it",
+        "id": "1952071260038453057",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ja",
+        "id": "1411768577036936240",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "kk",
+        "id": "8884149958776527952",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ko",
+        "id": "3285208643537017688",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "la",
+        "id": "764587568075398530",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "lt",
+        "id": "737986167355114438",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ms",
+        "id": "1471784905273036181",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "mn",
+        "id": "5967745367608513818",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ne",
+        "id": "954368055061084457",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "no",
+        "id": "4872213291993424667",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "fa",
+        "id": "3781216447842245147",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "pl",
+        "id": "8033579885162383068",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "pt-BR",
+        "id": "2655149515337070132",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "pt",
+        "id": "5189216366882819742",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ro",
+        "id": "4774459486579224459",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ru",
+        "id": "2098905203823335614",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "sr",
+        "id": "3507378005483435886",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "sk",
+        "id": "2875503798326600410",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "es-419",
+        "id": "4938773340256184018",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "es",
+        "id": "6400665728063187402",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "sv",
+        "id": "1145824452519314725",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ta",
+        "id": "4273071356706429527",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "te",
+        "id": "6886894829142702925",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "th",
+        "id": "1713554459881080228",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "tr",
+        "id": "3846770256925560569",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "uk",
+        "id": "5779037855201976894",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "vi",
+        "id": "9194073792736219759",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -4883,27 +6070,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Suwayomi",
-    "pkg": "eu.kanade.tachiyomi.extension.all.tachidesk",
-    "apk": "tachiyomi-all.tachidesk-v1.4.12.apk",
-    "lang": "all",
-    "code": 12,
-    "version": "1.4.12",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Suwayomi",
-        "lang": "all",
-        "id": "3100117499901280806",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Taddy INK (Webtoons)",
     "pkg": "eu.kanade.tachiyomi.extension.all.taddyink",
     "apk": "tachiyomi-all.taddyink-v1.4.1.apk",
@@ -6336,10 +7502,10 @@
   {
     "name": "Tachiyomi: Team X",
     "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
-    "apk": "tachiyomi-ar.teamx-v1.4.15.apk",
+    "apk": "tachiyomi-ar.teamx-v1.4.16.apk",
     "lang": "ar",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6348,7 +7514,7 @@
         "name": "Team X",
         "lang": "ar",
         "id": "4110737012647435874",
-        "baseUrl": "https://team11x11.com",
+        "baseUrl": "https://team1x12.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -6859,27 +8025,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Arena Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.arenascans",
-    "apk": "tachiyomi-en.arenascans-v1.4.28.apk",
-    "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Arena Scans",
-        "lang": "en",
-        "id": "8861274191478178487",
-        "baseUrl": "https://arenascans.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Arven Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
     "apk": "tachiyomi-en.arvenscans-v1.4.27.apk",
@@ -7294,27 +8439,6 @@
         "lang": "en",
         "id": "7557282200130823077",
         "baseUrl": "https://catonhead.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Chibi Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.chibimanga",
-    "apk": "tachiyomi-en.chibimanga-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Chibi Manga",
-        "lang": "en",
-        "id": "170616724910700834",
-        "baseUrl": "https://www.cmreader.info",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -7848,10 +8972,10 @@
   {
     "name": "Tachiyomi: Dynasty",
     "pkg": "eu.kanade.tachiyomi.extension.en.dynasty",
-    "apk": "tachiyomi-en.dynasty-v1.4.21.apk",
+    "apk": "tachiyomi-en.dynasty-v1.4.22.apk",
     "lang": "en",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9936,6 +11060,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Luminous Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
+    "apk": "tachiyomi-en.luminousscans-v1.4.28.apk",
+    "lang": "en",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Luminous Scans",
+        "lang": "en",
+        "id": "1019556752273106311",
+        "baseUrl": "https://luminousscans.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Lunar Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.lunarscans",
     "apk": "tachiyomi-en.lunarscans-v1.4.28.apk",
@@ -10043,10 +11188,10 @@
   {
     "name": "Tachiyomi: Madokami",
     "pkg": "eu.kanade.tachiyomi.extension.en.madokami",
-    "apk": "tachiyomi-en.madokami-v1.4.7.apk",
+    "apk": "tachiyomi-en.madokami-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15795,6 +16940,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Reaper Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
+    "apk": "tachiyomi-en.reaperscans-v1.4.47.apk",
+    "lang": "en",
+    "code": 47,
+    "version": "1.4.47",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Reaper Scans",
+        "lang": "en",
+        "id": "5177220001642863679",
+        "baseUrl": "https://reaperscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rio2 Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.rio2manga",
     "apk": "tachiyomi-en.rio2manga-v1.4.32.apk",
@@ -15810,6 +16976,27 @@
         "lang": "en",
         "id": "7333807145320535213",
         "baseUrl": "https://rio2manga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Rizz Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.en.rizzcomic",
+    "apk": "tachiyomi-en.rizzcomic-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Rizz Comic",
+        "lang": "en",
+        "id": "5157422019650176998",
+        "baseUrl": "https://rizzcomic.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -15854,6 +17041,27 @@
         "baseUrl": "https://rudrascans.com",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: S2Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.s2manga",
+    "apk": "tachiyomi-en.s2manga-v1.4.34.apk",
+    "lang": "en",
+    "code": 34,
+    "version": "1.4.34",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "S2Manga",
+        "lang": "en",
+        "id": "4870917758913494428",
+        "baseUrl": "https://www.s2manga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -17212,10 +18420,10 @@
   {
     "name": "Tachiyomi: XOXO Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.xoxocomics",
-    "apk": "tachiyomi-en.xoxocomics-v1.4.4.apk",
+    "apk": "tachiyomi-en.xoxocomics-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17224,7 +18432,7 @@
         "name": "XOXO Comics",
         "lang": "en",
         "id": "2385956107618754468",
-        "baseUrl": "https://xoxocomics.net",
+        "baseUrl": "https://xoxocomic.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17359,10 +18567,10 @@
   {
     "name": "Tachiyomi: Zero Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.zeroscans",
-    "apk": "tachiyomi-en.zeroscans-v1.4.6.apk",
+    "apk": "tachiyomi-en.zeroscans-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
@@ -17371,7 +18579,7 @@
         "name": "Zero Scans",
         "lang": "en",
         "id": "6757297486232346876",
-        "baseUrl": "https://zeroscans.com",
+        "baseUrl": "https://zscans.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -18220,10 +19428,10 @@
   {
     "name": "Tachiyomi: LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
-    "apk": "tachiyomi-es.lectormanga-v1.4.31.apk",
+    "apk": "tachiyomi-es.lectormanga-v1.4.33.apk",
     "lang": "es",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18256,6 +19464,27 @@
         "baseUrl": "https://www.lectormanga.lat",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LeerCapitulo",
+    "pkg": "eu.kanade.tachiyomi.extension.es.leercapitulo",
+    "apk": "tachiyomi-es.leercapitulo-v1.4.6.apk",
+    "lang": "es",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LeerCapitulo",
+        "lang": "es",
+        "id": "5621901596522308538",
+        "baseUrl": "https://www.leercapitulo.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -18344,21 +19573,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Fenix",
+    "name": "Tachiyomi: Manhua Fenix",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangafenix",
-    "apk": "tachiyomi-es.mangafenix-v1.4.35.apk",
+    "apk": "tachiyomi-es.mangafenix-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Manga Fenix",
+        "name": "Manhua Fenix",
         "lang": "es",
         "id": "19158964284779393",
-        "baseUrl": "https://manhua-fenix.com",
+        "baseUrl": "https://visorfenix.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18634,6 +19863,27 @@
         "baseUrl": "https://monarcamanga.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Traducciones Amistosas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.nartag",
+    "apk": "tachiyomi-es.nartag-v1.4.2.apk",
+    "lang": "es",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Traducciones Amistosas",
+        "lang": "es",
+        "id": "1872437740992957994",
+        "baseUrl": "https://nartag.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -19123,10 +20373,10 @@
   {
     "name": "Tachiyomi: TuMangaOnline",
     "pkg": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-    "apk": "tachiyomi-es.tumangaonline-v1.4.46.apk",
+    "apk": "tachiyomi-es.tumangaonline-v1.4.48.apk",
     "lang": "es",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21294,10 +22544,10 @@
   {
     "name": "Tachiyomi: Mangaku",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangaku",
-    "apk": "tachiyomi-id.mangaku-v1.4.6.apk",
+    "apk": "tachiyomi-id.mangaku-v1.4.7.apk",
     "lang": "id",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21306,7 +22556,7 @@
         "name": "Mangaku",
         "lang": "id",
         "id": "5933657200789309472",
-        "baseUrl": "https://mangaku.blog",
+        "baseUrl": "https://mangaku.mom",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22050,10 +23300,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.41.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.43.apk",
     "lang": "id",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22062,7 +23312,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigami.moe",
+        "baseUrl": "https://shinigamitoon.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22218,10 +23468,10 @@
   {
     "name": "Tachiyomi: West Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.westmanga",
-    "apk": "tachiyomi-id.westmanga-v1.4.29.apk",
+    "apk": "tachiyomi-id.westmanga-v1.4.30.apk",
     "lang": "id",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -22230,7 +23480,7 @@
         "name": "West Manga",
         "lang": "id",
         "id": "8883916630998758688",
-        "baseUrl": "https://westmanga.org",
+        "baseUrl": "https://westmanga.fun",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23345,6 +24595,35 @@
     ]
   },
   {
+    "name": "Tachiyomi: NewToki / ManaToki",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.newtoki",
+    "apk": "tachiyomi-ko.newtoki-v1.4.29.apk",
+    "lang": "ko",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManaToki",
+        "lang": "ko",
+        "id": "2526381983439079467",
+        "baseUrl": "https://manatoki321.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "NewToki",
+        "lang": "ko",
+        "id": "1977818283770282459",
+        "baseUrl": "https://newtoki321.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: RawDEX",
     "pkg": "eu.kanade.tachiyomi.extension.ko.rawdex",
     "apk": "tachiyomi-ko.rawdex-v1.4.33.apk",
@@ -23809,10 +25088,10 @@
   {
     "name": "Tachiyomi: Fay Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.fayscans",
-    "apk": "tachiyomi-pt.fayscans-v1.4.33.apk",
+    "apk": "tachiyomi-pt.fayscans-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23821,7 +25100,7 @@
         "name": "Fay Scans",
         "lang": "pt-BR",
         "id": "4455455706731547485",
-        "baseUrl": "https://fayscans.com.br",
+        "baseUrl": "https://fayscans.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -27274,10 +28553,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.22.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.23.apk",
     "lang": "vi",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27286,7 +28565,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenbing.com",
+        "baseUrl": "https://www.nettruyenclub.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28231,7 +29510,7 @@
         "name": "紳士漫畫",
         "lang": "zh",
         "id": "6551136894818591762",
-        "baseUrl": "https://www.htmanga9.top, https://www.htmanga7.top, https://www.htmanga6.top, https://www.htmanga3.top, https://www.htmanga4.top, https://www.htmanga5.top",
+        "baseUrl": "https://www.hm08.lol#, https://www.hm09.lol#, https://www.hm10.lol#, https://www.hm06.lol#, https://www.hm07.lol#, https://www.hm05.lol#, https://www.hm04.lol#, https://www.hm01.lol#, https://www.hm02.lol#, https://www.hm03.lol#, https://www.hm1.lol#, https://www.hm2.lol#, https://www.hm3.lol",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -28301,1392 +29580,126 @@
     ]
   },
   {
-    "name": "Tachiyomi: Bato.to",
-    "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.33.apk",
+    "name": "Tachiyomi: Kavita",
+    "pkg": "eu.kanade.tachiyomi.extension.all.kavita",
+    "apk": "tachiyomi-all.kavita-v1.4.13.apk",
     "lang": "all",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "hasReadme": 1,
-    "hasChangelog": 1,
+    "code": 13,
+    "version": "1.4.13",
+    "nsfw": 0,
     "sources": [
       {
-        "name": "Bato.to",
+        "name": "Kavita (1)",
         "lang": "all",
-        "id": "4531444389842992129",
-        "baseUrl": "https://bato.to",
+        "id": "7266875667263635239",
+        "baseUrl": "",
         "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
       },
       {
-        "name": "Bato.to",
-        "lang": "en",
-        "id": "7890050626002177109",
-        "baseUrl": "https://bato.to",
+        "name": "Kavita (2)",
+        "lang": "all",
+        "id": "3764816291200082561",
+        "baseUrl": "",
         "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
       },
       {
-        "name": "Bato.to",
-        "lang": "ar",
-        "id": "5096384382752696500",
-        "baseUrl": "https://bato.to",
+        "name": "Kavita (3)",
+        "lang": "all",
+        "id": "778637366235559582",
+        "baseUrl": "",
         "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "bg",
-        "id": "6495955027968241042",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "zh",
-        "id": "3158884414181268012",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "cs",
-        "id": "7576440018916883094",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "da",
-        "id": "5316229865560945519",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "nl",
-        "id": "2451829407813501910",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "fil",
-        "id": "313424729392609270",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "fi",
-        "id": "1251974539278082369",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "fr",
-        "id": "5836611700806032846",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "de",
-        "id": "139923318887989403",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "el",
-        "id": "8473797648002215114",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "he",
-        "id": "2408078218204857839",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "hi",
-        "id": "7084618587403216116",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "hu",
-        "id": "4530528320166985351",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "id",
-        "id": "1720762928205210073",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "it",
-        "id": "2160637426591463299",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ja",
-        "id": "5203173367987472935",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ko",
-        "id": "8427126052180576160",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ms",
-        "id": "5990851390838920547",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "pl",
-        "id": "3394902802486008664",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "pt",
-        "id": "6179954312892676695",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "pt-BR",
-        "id": "3484603489360202582",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ro",
-        "id": "5145326243818977877",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ru",
-        "id": "5188408707919914484",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "es",
-        "id": "6204540321264480489",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "es-419",
-        "id": "7185350469868201379",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sv",
-        "id": "8913559243351013088",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "th",
-        "id": "2706040171335467974",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "tr",
-        "id": "6468780937168595917",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "uk",
-        "id": "1782621454240367603",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "vi",
-        "id": "3164440079022386695",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "af",
-        "id": "9193031427501250739",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sq",
-        "id": "6847493053848422645",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "am",
-        "id": "2526577153570564673",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "hy",
-        "id": "1586739058301487676",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "az",
-        "id": "713056016405537102",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "be",
-        "id": "7232505995053152192",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "bn",
-        "id": "3402500071662542228",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "bs",
-        "id": "6908072148468152785",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "my",
-        "id": "5762198617335159887",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "km",
-        "id": "6796421298740947063",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ca",
-        "id": "1392737883785118332",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ceb",
-        "id": "5837595011776494775",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "zh-Hans",
-        "id": "2818874445640189582",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "zh-Hant",
-        "id": "38886079663327225",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "hr",
-        "id": "7668596971407381245",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "en-US",
-        "id": "8062169055021595945",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "eo",
-        "id": "3509865042379188717",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "et",
-        "id": "3006949234613526276",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "fo",
-        "id": "7703342981951715697",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ka",
-        "id": "5905178459829728484",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "gn",
-        "id": "4894494172631551657",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "gu",
-        "id": "4891408516910497422",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ht",
-        "id": "8773112916243804182",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ha",
-        "id": "8106799273220933842",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "is",
-        "id": "2566480683201153375",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ig",
-        "id": "3424308522705464084",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ga",
-        "id": "3707936942181329862",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "jv",
-        "id": "6913455010116693655",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "kn",
-        "id": "1088655658033412867",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "kk",
-        "id": "4920750007190577961",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ku",
-        "id": "5924797894030210791",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ky",
-        "id": "191250206471387059",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "lo",
-        "id": "374730826849442838",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "lv",
-        "id": "7483906778681041617",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "lt",
-        "id": "2909322037877472903",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "lb",
-        "id": "7998953198185983599",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mk",
-        "id": "4493782214399724320",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mg",
-        "id": "7844022624810291146",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ml",
-        "id": "3443092856670936701",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mt",
-        "id": "7404477799743142598",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mi",
-        "id": "8225972509362693639",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mr",
-        "id": "6030352007472109485",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mo",
-        "id": "8871355786189601023",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "mn",
-        "id": "1683078263344915307",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ne",
-        "id": "128549604427027000",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "no",
-        "id": "3907280050995528877",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ny",
-        "id": "5715855562377571991",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ps",
-        "id": "6105060607877949219",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "fa",
-        "id": "1302226087224798096",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "rm",
-        "id": "8327243820444225063",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sm",
-        "id": "2859258045373504715",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sr",
-        "id": "6589258274800936036",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sh",
-        "id": "2675056792049767704",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "st",
-        "id": "7963579117812866356",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sn",
-        "id": "2403628417982139515",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sd",
-        "id": "7126242426383705161",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "si",
-        "id": "2913942844788726362",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sk",
-        "id": "7182321933689697136",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sl",
-        "id": "8410771330361157651",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "so",
-        "id": "2909968758031724143",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "sw",
-        "id": "1981693893234457639",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "tg",
-        "id": "8403246223033985015",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ta",
-        "id": "8440188015298648289",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ti",
-        "id": "5554111601105349413",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "to",
-        "id": "2410241309695200602",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "tk",
-        "id": "3635004776434724843",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "ur",
-        "id": "7602124517732860619",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "uz",
-        "id": "4555523281386098571",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "yo",
-        "id": "727983903143794104",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "zu",
-        "id": "3786926370127246407",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "other",
-        "id": "1897863245819012494",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "eu",
-        "id": "3468748569008741067",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "pt-PT",
-        "id": "2823929639670313992",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
       }
     ]
   },
   {
-    "name": "Tachiyomi: MangaDex",
-    "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.4.192.apk",
+    "name": "Tachiyomi: Komga",
+    "pkg": "eu.kanade.tachiyomi.extension.all.komga",
+    "apk": "tachiyomi-all.komga-v1.4.50.apk",
     "lang": "all",
-    "code": 192,
-    "version": "1.4.192",
-    "nsfw": 1,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaDex",
-        "lang": "en",
-        "id": "2499283573021220255",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "sq",
-        "id": "987803387023224960",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "ar",
-        "id": "3339599426223341161",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "az",
-        "id": "9127464796236242233",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "bn",
-        "id": "4150470519566206911",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "bg",
-        "id": "5463447640980279236",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "my",
-        "id": "1347402746269051958",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "ca",
-        "id": "5860541308324630662",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "zh-Hans",
-        "id": "5148895169070562838",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "zh-Hant",
-        "id": "1493666528525752601",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "hr",
-        "id": "8548374501079910130",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "cs",
-        "id": "3578612018159256808",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "da",
-        "id": "425785191804166217",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "nl",
-        "id": "6750440049024086587",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "eo",
-        "id": "2819252027406613931",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "et",
-        "id": "8773024089257004344",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "fil",
-        "id": "8578871918181236609",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "fi",
-        "id": "8254121249433835847",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "fr",
-        "id": "4505830566611664829",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "ka",
-        "id": "8952567078513962586",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "de",
-        "id": "5098537545549490547",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "el",
-        "id": "3260701926561129943",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "he",
-        "id": "1424273154577029558",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "hi",
-        "id": "6840513937945146538",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "hu",
-        "id": "4284949320785450865",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "id",
-        "id": "3807502156582598786",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "it",
-        "id": "1952071260038453057",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "ja",
-        "id": "1411768577036936240",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "kk",
-        "id": "8884149958776527952",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "ko",
-        "id": "3285208643537017688",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "la",
-        "id": "764587568075398530",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "lt",
-        "id": "737986167355114438",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "ms",
-        "id": "1471784905273036181",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "mn",
-        "id": "5967745367608513818",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "ne",
-        "id": "954368055061084457",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "no",
-        "id": "4872213291993424667",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "fa",
-        "id": "3781216447842245147",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "pl",
-        "id": "8033579885162383068",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "pt-BR",
-        "id": "2655149515337070132",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "pt",
-        "id": "5189216366882819742",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "ro",
-        "id": "4774459486579224459",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "ru",
-        "id": "2098905203823335614",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "sr",
-        "id": "3507378005483435886",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "sk",
-        "id": "2875503798326600410",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "es-419",
-        "id": "4938773340256184018",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "es",
-        "id": "6400665728063187402",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "sv",
-        "id": "1145824452519314725",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "ta",
-        "id": "4273071356706429527",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "te",
-        "id": "6886894829142702925",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "th",
-        "id": "1713554459881080228",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "tr",
-        "id": "3846770256925560569",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "uk",
-        "id": "5779037855201976894",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MangaDex",
-        "lang": "vi",
-        "id": "9194073792736219759",
-        "baseUrl": "https://mangadex.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Luminous Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
-    "apk": "tachiyomi-en.luminousscans-v1.4.27.apk",
-    "lang": "en",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
     "sources": [
       {
-        "name": "Luminous Scans",
-        "lang": "en",
-        "id": "1019556752273106311",
-        "baseUrl": "https://luminousscans.net",
+        "name": "Komga",
+        "lang": "all",
+        "id": "4508733312114627536",
+        "baseUrl": "",
         "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Komga (2)",
+        "lang": "all",
+        "id": "8074481155021144106",
+        "baseUrl": "",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Komga (3)",
+        "lang": "all",
+        "id": "5132811728275817394",
+        "baseUrl": "",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
   {
-    "name": "Tachiyomi: Reaper Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.4.47.apk",
-    "lang": "en",
-    "code": 47,
-    "version": "1.4.47",
+    "name": "Tachiyomi: LANraragi",
+    "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
+    "apk": "tachiyomi-all.lanraragi-v1.4.15.apk",
+    "lang": "all",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
-        "name": "Reaper Scans",
-        "lang": "en",
-        "id": "5177220001642863679",
-        "baseUrl": "https://reaperscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: S2Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.s2manga",
-    "apk": "tachiyomi-en.s2manga-v1.4.34.apk",
-    "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "S2Manga",
-        "lang": "en",
-        "id": "4870917758913494428",
-        "baseUrl": "https://www.s2manga.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: NewToki / ManaToki",
-    "pkg": "eu.kanade.tachiyomi.extension.ko.newtoki",
-    "apk": "tachiyomi-ko.newtoki-v1.4.29.apk",
-    "lang": "ko",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ManaToki",
-        "lang": "ko",
-        "id": "2526381983439079467",
-        "baseUrl": "https://manatoki321.net",
+        "name": "LANraragi (1)",
+        "lang": "all",
+        "id": "4482480338677079857",
+        "baseUrl": "http://127.0.0.1:3000",
         "versionId": 1,
         "hasCloudflare": 1
       },
       {
-        "name": "NewToki",
-        "lang": "ko",
-        "id": "1977818283770282459",
-        "baseUrl": "https://newtoki321.com",
+        "name": "LANraragi (2)",
+        "lang": "all",
+        "id": "6188058704030343819",
+        "baseUrl": "http://127.0.0.1:3000",
         "versionId": 1,
         "hasCloudflare": 1
+      },
+      {
+        "name": "LANraragi (3)",
+        "lang": "all",
+        "id": "1900742277877037366",
+        "baseUrl": "http://127.0.0.1:3000",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Suwayomi",
+    "pkg": "eu.kanade.tachiyomi.extension.all.tachidesk",
+    "apk": "tachiyomi-all.tachidesk-v1.4.12.apk",
+    "lang": "all",
+    "code": 12,
+    "version": "1.4.12",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Suwayomi",
+        "lang": "all",
+        "id": "3100117499901280806",
+        "baseUrl": "",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   }

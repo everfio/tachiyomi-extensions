@@ -28,7 +28,7 @@
     "code": 58,
     "version": "1.4.58",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -57,8 +57,8 @@
     "code": 33,
     "version": "1.4.33",
     "nsfw": 1,
-    "hasReadme": 1,
-    "hasChangelog": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "Bato.to",
@@ -918,7 +918,7 @@
     "code": 12,
     "version": "1.4.12",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -1574,7 +1574,7 @@
     "code": 24,
     "version": "1.4.24",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -2877,8 +2877,8 @@
     "code": 19,
     "version": "1.4.19",
     "nsfw": 1,
-    "hasReadme": 1,
-    "hasChangelog": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "Luscious",
@@ -3044,7 +3044,7 @@
     "code": 192,
     "version": "1.4.192",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -4392,7 +4392,7 @@
     "code": 49,
     "version": "1.4.49",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -4499,7 +4499,7 @@
     "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
-    "hasChangelog": 1,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "MangaReader",
@@ -4657,7 +4657,7 @@
     "code": 3,
     "version": "1.4.3",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -4679,7 +4679,7 @@
     "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
-    "hasChangelog": 1,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "Mango",
@@ -4799,7 +4799,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -4828,7 +4828,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -5678,7 +5678,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -5847,8 +5847,8 @@
     "code": 3,
     "version": "1.4.3",
     "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "Project Suki",
@@ -6772,7 +6772,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -6814,7 +6814,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -7024,7 +7024,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -7318,7 +7318,7 @@
     "code": 42,
     "version": "1.4.42",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -7423,7 +7423,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -7444,7 +7444,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -7528,7 +7528,7 @@
     "code": 30,
     "version": "1.4.30",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -7654,7 +7654,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -7859,10 +7859,10 @@
   {
     "name": "Tachiyomi: Anchira",
     "pkg": "eu.kanade.tachiyomi.extension.en.anchira",
-    "apk": "tachiyomi-en.anchira-v1.4.1.apk",
+    "apk": "tachiyomi-en.anchira-v1.4.4.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7885,7 +7885,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -7906,7 +7906,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -8053,7 +8053,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -8074,7 +8074,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -8200,7 +8200,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -8305,7 +8305,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -8368,7 +8368,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -8704,7 +8704,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -8746,7 +8746,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -9135,7 +9135,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -9177,7 +9177,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -9450,7 +9450,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -9513,7 +9513,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -9660,7 +9660,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -9807,7 +9807,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -10332,7 +10332,7 @@
     "code": 32,
     "version": "1.4.32",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -10542,7 +10542,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -10689,7 +10689,7 @@
     "code": 30,
     "version": "1.4.30",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -10752,7 +10752,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -11088,7 +11088,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -11109,7 +11109,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -11151,7 +11151,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -11172,7 +11172,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -11235,7 +11235,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -11445,7 +11445,7 @@
     "code": 9,
     "version": "1.4.9",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -11761,7 +11761,7 @@
     "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
-    "hasChangelog": 1,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "Manga Demon",
@@ -12285,7 +12285,7 @@
     "code": 9,
     "version": "1.4.9",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -12348,7 +12348,7 @@
     "code": 8,
     "version": "1.4.8",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -12411,7 +12411,7 @@
     "code": 6,
     "version": "1.4.6",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -12705,7 +12705,7 @@
     "code": 7,
     "version": "1.4.7",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -14448,7 +14448,7 @@
     "code": 30,
     "version": "1.4.30",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -14511,7 +14511,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -14637,7 +14637,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -15204,7 +15204,7 @@
     "code": 30,
     "version": "1.4.30",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -15288,7 +15288,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -15582,7 +15582,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -15792,7 +15792,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -15813,7 +15813,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -15876,7 +15876,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -15918,7 +15918,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -16359,7 +16359,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -16485,7 +16485,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -17451,7 +17451,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -17494,7 +17494,7 @@
     "version": "1.4.20",
     "nsfw": 1,
     "hasReadme": 0,
-    "hasChangelog": 1,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "Tapas",
@@ -17598,7 +17598,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -17816,27 +17816,6 @@
         "lang": "en",
         "id": "1581110056159285576",
         "baseUrl": "https://toonily.me",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Toonily.net",
-    "pkg": "eu.kanade.tachiyomi.extension.en.toonilynet",
-    "apk": "tachiyomi-en.toonilynet-v1.4.34.apk",
-    "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Toonily.net",
-        "lang": "en",
-        "id": "2212494110286248223",
-        "baseUrl": "https://toonily.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18102,7 +18081,7 @@
     "code": 20,
     "version": "1.4.20",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -18153,7 +18132,7 @@
     "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
-    "hasChangelog": 1,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "VyvyManga",
@@ -18446,7 +18425,7 @@
     "code": 32,
     "version": "1.4.32",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -18572,7 +18551,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -18615,7 +18594,7 @@
     "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
-    "hasChangelog": 1,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "Zero Scans",
@@ -18740,7 +18719,7 @@
     "code": 35,
     "version": "1.4.35",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -18845,7 +18824,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -18908,7 +18887,7 @@
     "code": 32,
     "version": "1.4.32",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -19118,7 +19097,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -19307,7 +19286,7 @@
     "code": 34,
     "version": "1.4.34",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -19727,7 +19706,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -19743,10 +19722,10 @@
   {
     "name": "Tachiyomi: Mangas.in",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasin",
-    "apk": "tachiyomi-es.mangasin-v1.4.7.apk",
+    "apk": "tachiyomi-es.mangasin-v1.4.8.apk",
     "lang": "es",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19958,7 +19937,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20063,7 +20042,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20210,7 +20189,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20231,7 +20210,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20273,7 +20252,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20315,7 +20294,7 @@
     "code": 33,
     "version": "1.4.33",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20357,7 +20336,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20420,7 +20399,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20659,7 +20638,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20722,7 +20701,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20743,7 +20722,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20827,7 +20806,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21016,7 +20995,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21226,7 +21205,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21289,7 +21268,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21499,7 +21478,7 @@
     "code": 37,
     "version": "1.4.37",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21520,7 +21499,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21562,7 +21541,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21625,7 +21604,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21646,7 +21625,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21730,7 +21709,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21772,7 +21751,7 @@
     "code": 30,
     "version": "1.4.30",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21793,7 +21772,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21835,7 +21814,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21877,7 +21856,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21898,7 +21877,7 @@
     "code": 33,
     "version": "1.4.33",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21919,7 +21898,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21940,7 +21919,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21961,7 +21940,7 @@
     "code": 33,
     "version": "1.4.33",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22024,7 +22003,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22045,7 +22024,7 @@
     "code": 52,
     "version": "1.4.52",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22066,7 +22045,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22171,7 +22150,7 @@
     "code": 30,
     "version": "1.4.30",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22255,7 +22234,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22276,7 +22255,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22360,7 +22339,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22381,7 +22360,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22402,7 +22381,7 @@
     "code": 31,
     "version": "1.4.31",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22423,7 +22402,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22465,7 +22444,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22486,7 +22465,7 @@
     "code": 30,
     "version": "1.4.30",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22507,7 +22486,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22570,7 +22549,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22591,7 +22570,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22633,7 +22612,7 @@
     "code": 30,
     "version": "1.4.30",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22675,7 +22654,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22696,7 +22675,7 @@
     "code": 30,
     "version": "1.4.30",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22717,7 +22696,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22738,7 +22717,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22759,7 +22738,7 @@
     "code": 37,
     "version": "1.4.37",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22780,7 +22759,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22801,7 +22780,7 @@
     "code": 31,
     "version": "1.4.31",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22822,8 +22801,8 @@
     "code": 31,
     "version": "1.4.31",
     "nsfw": 1,
-    "hasReadme": 1,
-    "hasChangelog": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "Manhwa Indo",
@@ -22843,7 +22822,7 @@
     "code": 32,
     "version": "1.4.32",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22864,7 +22843,7 @@
     "code": 31,
     "version": "1.4.31",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22885,7 +22864,7 @@
     "code": 31,
     "version": "1.4.31",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22906,7 +22885,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22969,7 +22948,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -22990,7 +22969,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23011,7 +22990,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23032,7 +23011,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23074,7 +23053,7 @@
     "code": 29,
     "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23095,7 +23074,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23116,7 +23095,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23158,7 +23137,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23200,7 +23179,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23263,7 +23242,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23284,7 +23263,7 @@
     "code": 38,
     "version": "1.4.38",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23305,7 +23284,7 @@
     "code": 32,
     "version": "1.4.32",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23347,7 +23326,7 @@
     "code": 31,
     "version": "1.4.31",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23473,7 +23452,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23515,7 +23494,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23536,7 +23515,7 @@
     "code": 30,
     "version": "1.4.30",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23578,7 +23557,7 @@
     "code": 38,
     "version": "1.4.38",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -23914,7 +23893,7 @@
     "code": 34,
     "version": "1.4.34",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -24250,7 +24229,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -24258,6 +24237,27 @@
         "lang": "ja",
         "id": "6223520752496636410",
         "baseUrl": "https://mangaraw.org",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nicomanga",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.nicomanga",
+    "apk": "tachiyomi-ja.nicomanga-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nicomanga",
+        "lang": "ja",
+        "id": "5680590515266301834",
+        "baseUrl": "https://nicomanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24334,7 +24334,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -24904,7 +24904,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -25093,7 +25093,7 @@
     "code": 35,
     "version": "1.4.35",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -25261,7 +25261,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -25492,7 +25492,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -25744,7 +25744,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -25765,7 +25765,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -26038,7 +26038,7 @@
     "code": 37,
     "version": "1.4.37",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -26269,7 +26269,7 @@
     "code": 32,
     "version": "1.4.32",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -26311,7 +26311,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -26332,7 +26332,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -26353,7 +26353,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -26374,7 +26374,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -26479,7 +26479,7 @@
     "code": 36,
     "version": "1.4.36",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -26747,10 +26747,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.4.42.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.4.43.apk",
     "lang": "ru",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27041,10 +27041,10 @@
   {
     "name": "Tachiyomi: MintManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.4.66.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.4.67.apk",
     "lang": "ru",
-    "code": 66,
-    "version": "1.4.66",
+    "code": 67,
+    "version": "1.4.67",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27104,10 +27104,10 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.66.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.67.apk",
     "lang": "ru",
-    "code": 66,
-    "version": "1.4.66",
+    "code": 67,
+    "version": "1.4.67",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27146,10 +27146,10 @@
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.21.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.22.apk",
     "lang": "ru",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27188,10 +27188,10 @@
   {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.42.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.43.apk",
     "lang": "ru",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27592,7 +27592,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -27949,7 +27949,7 @@
     "code": 28,
     "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -28096,7 +28096,7 @@
     "code": 32,
     "version": "1.4.32",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -28243,7 +28243,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -28264,7 +28264,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -28348,7 +28348,7 @@
     "code": 27,
     "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -28369,7 +28369,7 @@
     "code": 33,
     "version": "1.4.33",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -28895,7 +28895,7 @@
     "version": "1.4.22",
     "nsfw": 0,
     "hasReadme": 0,
-    "hasChangelog": 1,
+    "hasChangelog": 0,
     "sources": [
       {
         "name": "包子漫画",
@@ -28957,7 +28957,7 @@
     "code": 11,
     "version": "1.4.11",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {

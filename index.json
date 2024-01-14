@@ -52,10 +52,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.33.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.34.apk",
     "lang": "all",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -440,14 +440,6 @@
         "name": "Bato.to",
         "lang": "hr",
         "id": "7668596971407381245",
-        "baseUrl": "https://bato.to",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "en-US",
-        "id": "8062169055021595945",
         "baseUrl": "https://bato.to",
         "versionId": 1,
         "hasCloudflare": 1
@@ -8670,6 +8662,27 @@
         "lang": "en",
         "id": "7731095642323580771",
         "baseUrl": "https://www.comicscans.org",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Constellar Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.constellarscans",
+    "apk": "tachiyomi-en.constellarscans-v1.4.43.apk",
+    "lang": "en",
+    "code": 43,
+    "version": "1.4.43",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Constellar Scans",
+        "lang": "en",
+        "id": "621381833080231711",
+        "baseUrl": "https://constellarcomic.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -16982,6 +16995,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Reset Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
+    "apk": "tachiyomi-en.resetscans-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Reset Scans",
+        "lang": "en",
+        "id": "8894279497795073184",
+        "baseUrl": "https://reset-scans.us",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rio2 Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.rio2manga",
     "apk": "tachiyomi-en.rio2manga-v1.4.32.apk",
@@ -17440,6 +17474,27 @@
         "baseUrl": "https://sunshinebutterflyscan.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: SUPER MEGA",
+    "pkg": "eu.kanade.tachiyomi.extension.en.supermega",
+    "apk": "tachiyomi-en.supermega-v1.4.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SUPER MEGA",
+        "lang": "en",
+        "id": "7900982727014582653",
+        "baseUrl": "https://www.supermegacomics.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -24245,10 +24300,10 @@
   {
     "name": "Tachiyomi: Nicomanga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.nicomanga",
-    "apk": "tachiyomi-ja.nicomanga-v1.4.1.apk",
+    "apk": "tachiyomi-ja.nicomanga-v1.4.2.apk",
     "lang": "ja",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25529,10 +25584,10 @@
   {
     "name": "Tachiyomi: Império Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.imperioscans",
-    "apk": "tachiyomi-pt.imperioscans-v1.4.33.apk",
+    "apk": "tachiyomi-pt.imperioscans-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25541,7 +25596,7 @@
         "name": "Império Scans",
         "lang": "pt-BR",
         "id": "1369117541868504584",
-        "baseUrl": "https://imperioscans.com.br",
+        "baseUrl": "https://neroxus.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25613,10 +25668,10 @@
   {
     "name": "Tachiyomi: Ler Mangá",
     "pkg": "eu.kanade.tachiyomi.extension.pt.lermanga",
-    "apk": "tachiyomi-pt.lermanga-v1.4.4.apk",
+    "apk": "tachiyomi-pt.lermanga-v1.4.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26012,10 +26067,10 @@
   {
     "name": "Tachiyomi: One Piece Ex",
     "pkg": "eu.kanade.tachiyomi.extension.pt.opex",
-    "apk": "tachiyomi-pt.opex-v1.4.6.apk",
+    "apk": "tachiyomi-pt.opex-v1.4.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27083,10 +27138,10 @@
   {
     "name": "Tachiyomi: Nude-Moon",
     "pkg": "eu.kanade.tachiyomi.extension.ru.nudemoon",
-    "apk": "tachiyomi-ru.nudemoon-v1.4.16.apk",
+    "apk": "tachiyomi-ru.nudemoon-v1.4.17.apk",
     "lang": "ru",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27097,7 +27152,7 @@
         "id": "6384784374922886076",
         "baseUrl": "https://x.nude-moon.fun",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       }
     ]
   },
@@ -28658,10 +28713,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.4.16.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.4.17.apk",
     "lang": "vi",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28670,7 +28725,7 @@
         "name": "NhatTruyen",
         "lang": "vi",
         "id": "6861496002170366525",
-        "baseUrl": "https://nhattruyenmax.com",
+        "baseUrl": "https://nhattruyento.com",
         "versionId": 1,
         "hasCloudflare": 1
       }

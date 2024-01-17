@@ -7851,10 +7851,10 @@
   {
     "name": "Tachiyomi: Anchira",
     "pkg": "eu.kanade.tachiyomi.extension.en.anchira",
-    "apk": "tachiyomi-en.anchira-v1.4.4.apk",
+    "apk": "tachiyomi-en.anchira-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17039,10 +17039,10 @@
   {
     "name": "Tachiyomi: Rizz Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.rizzcomic",
-    "apk": "tachiyomi-en.rizzcomic-v1.4.1.apk",
+    "apk": "tachiyomi-en.rizzcomic-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18767,23 +18767,23 @@
     ]
   },
   {
-    "name": "Tachiyomi: AiYuManga",
+    "name": "Tachiyomi: AiYuManhua",
     "pkg": "eu.kanade.tachiyomi.extension.es.aiyumanga",
-    "apk": "tachiyomi-es.aiyumanga-v1.4.35.apk",
+    "apk": "tachiyomi-es.aiyumanga-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "AiYuManga",
+        "name": "AiYuManhua",
         "lang": "es",
-        "id": "431300335605593183",
-        "baseUrl": "https://aiyumanhua.com",
-        "versionId": 3,
-        "hasCloudflare": 1
+        "id": "1441087296117386231",
+        "baseUrl": "https://www.aiyumanhua.com",
+        "versionId": 4,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -26443,6 +26443,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: SlimeRead",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
+    "apk": "tachiyomi-pt.slimeread-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SlimeRead",
+        "lang": "pt-BR",
+        "id": "8209406708962970454",
+        "baseUrl": "https://slimeread.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SSS Hentais",
     "pkg": "eu.kanade.tachiyomi.extension.pt.ssshentais",
     "apk": "tachiyomi-pt.ssshentais-v1.4.28.apk",
@@ -28669,6 +28690,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: DocTruyen5s",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen5s",
+    "apk": "tachiyomi-vi.doctruyen5s-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DocTruyen5s",
+        "lang": "vi",
+        "id": "7595811359698226104",
+        "baseUrl": "https://manga.io.vn",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hentai CB",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
     "apk": "tachiyomi-vi.hentaicube-v1.4.38.apk",
@@ -29799,130 +29841,6 @@
         "baseUrl": "http://www.zerobywgbo2.com",
         "versionId": 1,
         "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Kavita",
-    "pkg": "eu.kanade.tachiyomi.extension.all.kavita",
-    "apk": "tachiyomi-all.kavita-v1.4.13.apk",
-    "lang": "all",
-    "code": 13,
-    "version": "1.4.13",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Kavita (1)",
-        "lang": "all",
-        "id": "7266875667263635239",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Kavita (2)",
-        "lang": "all",
-        "id": "3764816291200082561",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Kavita (3)",
-        "lang": "all",
-        "id": "778637366235559582",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Komga",
-    "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.4.50.apk",
-    "lang": "all",
-    "code": 50,
-    "version": "1.4.50",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Komga",
-        "lang": "all",
-        "id": "4508733312114627536",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Komga (2)",
-        "lang": "all",
-        "id": "8074481155021144106",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Komga (3)",
-        "lang": "all",
-        "id": "5132811728275817394",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: LANraragi",
-    "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
-    "apk": "tachiyomi-all.lanraragi-v1.4.15.apk",
-    "lang": "all",
-    "code": 15,
-    "version": "1.4.15",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "LANraragi (1)",
-        "lang": "all",
-        "id": "4482480338677079857",
-        "baseUrl": "http://127.0.0.1:3000",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "LANraragi (2)",
-        "lang": "all",
-        "id": "6188058704030343819",
-        "baseUrl": "http://127.0.0.1:3000",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "LANraragi (3)",
-        "lang": "all",
-        "id": "1900742277877037366",
-        "baseUrl": "http://127.0.0.1:3000",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Suwayomi",
-    "pkg": "eu.kanade.tachiyomi.extension.all.tachidesk",
-    "apk": "tachiyomi-all.tachidesk-v1.4.12.apk",
-    "lang": "all",
-    "code": 12,
-    "version": "1.4.12",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Suwayomi",
-        "lang": "all",
-        "id": "3100117499901280806",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
       }
     ]
   }

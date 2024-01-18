@@ -9059,10 +9059,10 @@
   {
     "name": "Tachiyomi: EarlyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.earlymanga",
-    "apk": "tachiyomi-en.earlymanga-v1.4.21.apk",
+    "apk": "tachiyomi-en.earlymanga-v1.4.22.apk",
     "lang": "en",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9070,9 +9070,9 @@
       {
         "name": "EarlyManga",
         "lang": "en",
-        "id": "6241754258417429248",
-        "baseUrl": "https://earlycomic.com",
-        "versionId": 1,
+        "id": "7334481395354545914",
+        "baseUrl": "https://earlym.org",
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -12251,10 +12251,10 @@
   {
     "name": "Tachiyomi: MangaHub",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahubio",
-    "apk": "tachiyomi-en.mangahubio-v1.4.32.apk",
+    "apk": "tachiyomi-en.mangahubio-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12944,10 +12944,10 @@
   {
     "name": "Tachiyomi: MangaPanda.onl",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapandaonl",
-    "apk": "tachiyomi-en.mangapandaonl-v1.4.22.apk",
+    "apk": "tachiyomi-en.mangapandaonl-v1.4.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13196,10 +13196,10 @@
   {
     "name": "Tachiyomi: MangaReader.site",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangareadersite",
-    "apk": "tachiyomi-en.mangareadersite-v1.4.22.apk",
+    "apk": "tachiyomi-en.mangareadersite-v1.4.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24748,7 +24748,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki321.net",
+        "baseUrl": "https://manatoki322.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -24756,7 +24756,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki321.com",
+        "baseUrl": "https://newtoki322.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25072,6 +25072,27 @@
         "lang": "pt-BR",
         "id": "1652448748031658277",
         "baseUrl": "https://bakai.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Blackout Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
+    "apk": "tachiyomi-pt.blackoutcomics-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Blackout Comics",
+        "lang": "pt-BR",
+        "id": "4905303791571172293",
+        "baseUrl": "https://blackoutcomics.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -28335,10 +28356,10 @@
   {
     "name": "Tachiyomi: SeriManga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.serimanga",
-    "apk": "tachiyomi-tr.serimanga-v1.4.3.apk",
+    "apk": "tachiyomi-tr.serimanga-v1.4.4.apk",
     "lang": "tr",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28347,7 +28368,7 @@
         "name": "SeriManga",
         "lang": "tr",
         "id": "7642785534684357226",
-        "baseUrl": "https://serimanga.com",
+        "baseUrl": "https://serimangas.com",
         "versionId": 1,
         "hasCloudflare": 1
       }

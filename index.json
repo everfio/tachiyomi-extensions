@@ -1920,6 +1920,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hentai Cosplay",
+    "pkg": "eu.kanade.tachiyomi.extension.all.hentaicosplay",
+    "apk": "tachiyomi-all.hentaicosplay-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hentai Cosplay",
+        "lang": "all",
+        "id": "3422463439145930309",
+        "baseUrl": "https://hentai-cosplays.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: HentaiHand",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaihand",
     "apk": "tachiyomi-all.hentaihand-v1.4.7.apk",
@@ -25294,6 +25314,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Wicked Witch Scan (Novo)",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.wickedwitchscannovo",
+    "apk": "tachiyomi-pt.wickedwitchscannovo-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Wicked Witch Scan",
+        "lang": "pt-BR",
+        "id": "4671783341567859051",
+        "baseUrl": "https://wicked-witch-scan.com",
+        "versionId": 2
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Winter Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.winterscan",
     "apk": "tachiyomi-pt.winterscan-v1.4.37.apk",
@@ -26929,6 +26969,26 @@
         "lang": "tr",
         "id": "8054539304013575208",
         "baseUrl": "https://www.tarotscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Tempest Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.tempestfansub",
+    "apk": "tachiyomi-tr.tempestfansub-v1.4.28.apk",
+    "lang": "tr",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tempest Fansub",
+        "lang": "tr",
+        "id": "939515706294391223",
+        "baseUrl": "https://tempestfansub.com",
         "versionId": 1
       }
     ]

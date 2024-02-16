@@ -7211,10 +7211,10 @@
   {
     "name": "Tachiyomi: Novels Town",
     "pkg": "eu.kanade.tachiyomi.extension.ar.novelstown",
-    "apk": "tachiyomi-ar.novelstown-v1.4.33.apk",
+    "apk": "tachiyomi-ar.novelstown-v1.4.34.apk",
     "lang": "ar",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7223,7 +7223,7 @@
         "name": "Novels Town",
         "lang": "ar",
         "id": "4033507088315751045",
-        "baseUrl": "https://novelstown.cyou",
+        "baseUrl": "https://novelstown.com",
         "versionId": 1
       }
     ]
@@ -15819,10 +15819,10 @@
   {
     "name": "Tachiyomi: Rudra Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.rudrascans",
-    "apk": "tachiyomi-en.rudrascans-v1.4.1.apk",
+    "apk": "tachiyomi-en.rudrascans-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17144,6 +17144,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Wicked Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.wickedscans",
+    "apk": "tachiyomi-en.wickedscans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Wicked Scans",
+        "lang": "en",
+        "id": "519542652861335901",
+        "baseUrl": "https://wickedscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: WoopRead",
     "pkg": "eu.kanade.tachiyomi.extension.en.woopread",
     "apk": "tachiyomi-en.woopread-v1.4.34.apk",
@@ -17804,6 +17824,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Es.Mi2Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.esmi2manga",
+    "apk": "tachiyomi-es.esmi2manga-v1.4.33.apk",
+    "lang": "es",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Es.Mi2Manga",
+        "lang": "es",
+        "id": "1024617013674150903",
+        "baseUrl": "https://es.mi2manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Gremory Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.gremorymangas",
     "apk": "tachiyomi-es.gremorymangas-v1.4.28.apk",
@@ -18259,6 +18299,26 @@
         "lang": "es",
         "id": "8580859910673249950",
         "baseUrl": "https://r1.leermanga.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Legends No Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.es.legendsnofansub",
+    "apk": "tachiyomi-es.legendsnofansub-v1.4.34.apk",
+    "lang": "es",
+    "code": 34,
+    "version": "1.4.34",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Legends No Fansub",
+        "lang": "es",
+        "id": "9078720153732517844",
+        "baseUrl": "https://legnmangas.com",
         "versionId": 1
       }
     ]
@@ -22993,10 +23053,10 @@
   {
     "name": "Tachiyomi: Naver Comic",
     "pkg": "eu.kanade.tachiyomi.extension.ko.navercomic",
-    "apk": "tachiyomi-ko.navercomic-v1.4.4.apk",
+    "apk": "tachiyomi-ko.navercomic-v1.4.5.apk",
     "lang": "ko",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26452,6 +26512,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: LilyumFansub",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.lilyumfansub",
+    "apk": "tachiyomi-tr.lilyumfansub-v1.4.33.apk",
+    "lang": "tr",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LilyumFansub",
+        "lang": "tr",
+        "id": "8792180185763099532",
+        "baseUrl": "https://lilyumfansub.com.tr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangacim",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangacim",
     "apk": "tachiyomi-tr.mangacim-v1.4.29.apk",
@@ -27167,6 +27247,26 @@
         "lang": "vi",
         "id": "7595811359698226104",
         "baseUrl": "https://manga.io.vn",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Dua Leo Truyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
+    "apk": "tachiyomi-vi.dualeotruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dưa Leo Truyện",
+        "lang": "vi",
+        "id": "1039830224122325226",
+        "baseUrl": "https://dualeotruyenme.com",
         "versionId": 1
       }
     ]

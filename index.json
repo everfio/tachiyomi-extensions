@@ -6748,6 +6748,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: GMANGA (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.gmangasite",
+    "apk": "tachiyomi-ar.gmangasite-v1.4.35.apk",
+    "lang": "ar",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "GMANGA (unoriginal)",
+        "lang": "ar",
+        "id": "6673243060631219217",
+        "baseUrl": "https://gmanga.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hentai Slayer",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hentaislayer",
     "apk": "tachiyomi-ar.hentaislayer-v1.4.2.apk",
@@ -7330,10 +7350,10 @@
   {
     "name": "Tachiyomi: King Of Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.ozulscans",
-    "apk": "tachiyomi-ar.ozulscans-v1.4.33.apk",
+    "apk": "tachiyomi-ar.ozulscans-v1.4.34.apk",
     "lang": "ar",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7342,7 +7362,7 @@
         "name": "King Of Manga",
         "lang": "ar",
         "id": "3453769904666687440",
-        "baseUrl": "https://kingofmanga.com",
+        "baseUrl": "https://king-ofmanga.com",
         "versionId": 1
       }
     ]
@@ -7950,10 +7970,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.32.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10658,10 +10678,10 @@
   {
     "name": "Tachiyomi: Luminous Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
-    "apk": "tachiyomi-en.luminousscans-v1.4.34.apk",
+    "apk": "tachiyomi-en.luminousscans-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14625,10 +14645,10 @@
   {
     "name": "Tachiyomi: NineHentai",
     "pkg": "eu.kanade.tachiyomi.extension.en.ninehentai",
-    "apk": "tachiyomi-en.ninehentai-v1.4.2.apk",
+    "apk": "tachiyomi-en.ninehentai-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14637,7 +14657,7 @@
         "name": "NineHentai",
         "lang": "en",
         "id": "7689490563697355048",
-        "baseUrl": "https://9hentai.to",
+        "baseUrl": "https://9hentai.com",
         "versionId": 1
       }
     ]
@@ -16045,10 +16065,10 @@
   {
     "name": "Tachiyomi: Rizz Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.rizzcomic",
-    "apk": "tachiyomi-en.rizzcomic-v1.4.31.apk",
+    "apk": "tachiyomi-en.rizzcomic-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22159,10 +22179,10 @@
   {
     "name": "Tachiyomi: Sekaikomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.sekaikomik",
-    "apk": "tachiyomi-id.sekaikomik-v1.4.41.apk",
+    "apk": "tachiyomi-id.sekaikomik-v1.4.42.apk",
     "lang": "id",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22171,7 +22191,7 @@
         "name": "Sekaikomik",
         "lang": "id",
         "id": "4017490974617506790",
-        "baseUrl": "https://sekaikomik.bio",
+        "baseUrl": "https://sekaikomik.guru",
         "versionId": 1
       }
     ]
@@ -24785,6 +24805,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ler Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.lermangas",
+    "apk": "tachiyomi-pt.lermangas-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ler Mangas",
+        "lang": "pt-BR",
+        "id": "9215856445653506967",
+        "baseUrl": "https://lermangas.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ler Yaoi",
     "pkg": "eu.kanade.tachiyomi.extension.pt.leryaoi",
     "apk": "tachiyomi-pt.leryaoi-v1.4.35.apk",
@@ -25007,10 +25047,10 @@
   {
     "name": "Tachiyomi: Manhastro",
     "pkg": "eu.kanade.tachiyomi.extension.pt.manhastro",
-    "apk": "tachiyomi-pt.manhastro-v1.4.37.apk",
+    "apk": "tachiyomi-pt.manhastro-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26607,10 +26647,10 @@
   {
     "name": "Tachiyomi: YaoiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yaoilib",
-    "apk": "tachiyomi-ru.yaoilib-v1.4.27.apk",
+    "apk": "tachiyomi-ru.yaoilib-v1.4.28.apk",
     "lang": "ru",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26619,7 +26659,7 @@
         "name": "YaoiLib",
         "lang": "ru",
         "id": "2730544188738947015",
-        "baseUrl": "https://v1.slashlib.me",
+        "baseUrl": "https://v2.slashlib.me",
         "versionId": 1
       }
     ]
@@ -28727,10 +28767,10 @@
   {
     "name": "Tachiyomi: Gufeng Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.gufengmh",
-    "apk": "tachiyomi-zh.gufengmh-v1.4.17.apk",
+    "apk": "tachiyomi-zh.gufengmh-v1.4.18.apk",
     "lang": "zh",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28739,7 +28779,7 @@
         "name": "古风漫画网",
         "lang": "zh",
         "id": "4341893737383682159",
-        "baseUrl": "https://www.gufengmh.com",
+        "baseUrl": "https://www.gufengmh9.com",
         "versionId": 1
       }
     ]

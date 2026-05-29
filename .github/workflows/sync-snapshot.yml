@@ -1,0 +1,35 @@
+name: Sync Upstream (Snapshot)
+
+on:
+  schedule:
+    - cron: '23 * * * *' # every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone upstream
+        run: git clone --depth 1 --branch repo https://github.com/keiyoushi/extensions.git /tmp/upstream
+
+      - name: Build snapshot and force push to main
+        run: |
+          cd /tmp
+          mkdir snapshot
+          cd snapshot
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Copy upstream files
+          cp -r /tmp/upstream/apk .
+          cp -r /tmp/upstream/icon .
+          cp /tmp/upstream/index.json .
+          cp /tmp/upstream/index.min.json .
+
+          git add -A
+          git commit -m "Snapshot: sync from keiyoushi/extensions $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:repo

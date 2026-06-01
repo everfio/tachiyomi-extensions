@@ -12,14 +12,40 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
+      - name: Get upstream latest commit
+        id: upstream
+        run: |
+          UPSTREAM_COMMIT=$(git ls-remote https://github.com/keiyoushi/extensions.git refs/heads/repo | cut -f1)
+          if [ -z "$UPSTREAM_COMMIT" ]; then
+            echo "::error::Failed to get upstream commit hash"
+            exit 1
+          fi
+          echo "commit=$UPSTREAM_COMMIT" >> $GITHUB_OUTPUT
+          echo "Upstream commit: $UPSTREAM_COMMIT"
+
+      - name: Check if sync needed
+        id: check
+        run: |
+          LAST_COMMIT=$(curl -sf -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://raw.githubusercontent.com/${{ github.repository }}/repo/.last-upstream-commit || echo "")
+          echo "Last synced commit: $LAST_COMMIT"
+          if [ "$LAST_COMMIT" = "${{ steps.upstream.outputs.commit }}" ]; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes, skipping sync."
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected, will sync."
+          fi
+
       - name: Clone upstream
+        if: steps.check.outputs.changed == 'true'
         run: git clone --depth 1 --branch repo https://github.com/keiyoushi/extensions.git /tmp/upstream
 
-      - name: Build snapshot and force push to main
+      - name: Build snapshot
+        if: steps.check.outputs.changed == 'true'
         run: |
-          cd /tmp
-          mkdir snapshot
-          cd snapshot
+          mkdir /tmp/snapshot
+          cd /tmp/snapshot
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -29,7 +55,22 @@ jobs:
           cp -r /tmp/upstream/icon .
           cp /tmp/upstream/index.json .
           cp /tmp/upstream/index.min.json .
+          cp /tmp/upstream/repo.json .
+
+          # Verify critical files exist
+          if [ ! -f index.min.json ] || [ ! -d apk ]; then
+            echo "::error::Snapshot build failed: critical files missing"
+            exit 1
+          fi
+
+          # Record upstream commit hash
+          echo "${{ steps.upstream.outputs.commit }}" > .last-upstream-commit
 
           git add -A
           git commit -m "Snapshot: sync from keiyoushi/extensions $(date -u +'%Y-%m-%d %H:%M UTC')"
+
+      - name: Push snapshot
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          cd /tmp/snapshot
           git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:repo

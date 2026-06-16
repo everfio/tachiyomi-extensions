@@ -56,6 +56,7 @@ jobs:
           cp /tmp/upstream/index.json .
           cp /tmp/upstream/index.min.json .
           cp /tmp/upstream/repo.json .
+          cp /tmp/upstream/index.pb .
 
           # Verify critical files exist
           if [ ! -f index.min.json ] || [ ! -d apk ]; then

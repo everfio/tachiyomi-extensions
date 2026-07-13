@@ -50,13 +50,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Copy upstream files
-          cp -r /tmp/upstream/apk .
-          cp -r /tmp/upstream/icon .
-          cp /tmp/upstream/index.json .
-          cp /tmp/upstream/index.min.json .
-          cp /tmp/upstream/repo.json .
-          cp /tmp/upstream/index.pb .
+          # Copy all upstream files
+          cp -r /tmp/upstream/* .
 
           # Verify critical files exist
           if [ ! -f index.min.json ] || [ ! -d apk ]; then

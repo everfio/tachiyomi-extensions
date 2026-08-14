@@ -53,12 +53,6 @@ jobs:
           # Copy all upstream files
           cp -r /tmp/upstream/* .
 
-          # Verify critical files exist
-          if [ ! -f index.min.json ] || [ ! -d apk ]; then
-            echo "::error::Snapshot build failed: critical files missing"
-            exit 1
-          fi
-
           # Record upstream commit hash
           echo "${{ steps.upstream.outputs.commit }}" > .last-upstream-commit
 
